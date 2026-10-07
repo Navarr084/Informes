@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RA5GenerarInformes</string>
+    <string name="text">Ofertas de trabajo</string>
+    <string name="botonGenerarInforme">Generar Informe</string>
+    <string name="botonExportarPdf">Exportar Pdf</string>
+    <string name="ciudadSeleccionada">Ciudad seleccionada:</string>
+    <string name="numeroOferta">Numero de ofertas:</string>
+    <string name="salarioTotal">Salario total:</string>
+    <string name="salarioMedio">Salario medio:</string>
+    <string name="salarioMaximo">Salario máximo:</string>
+    <string name="salarioMinimo">Salario mínimo:</string>
+    <string name="ofertaCiudad">Oferta por ciudad</string>
+    <string name="valencia">Valencia</string>
+    <string name="cero">0</string>
+    <string name="madrid">Madrid</string>
+    <string name="alicante">Alicante</string>
+    <string name="oferta">Ofertas</string>
+    <string name="castellon">Castellón</string>
+    <string name="salario">Salario:</string>
+    <string name="mejorOferta">La mejor oferta pagada del filtro es:</string>
+</resources>
